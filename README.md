@@ -1,4 +1,4 @@
-# knitr
+# knitr_test
 
 [![Build Status](https://travis-ci.org/yihui/knitr.png)](https://travis-ci.org/yihui/knitr)
 
